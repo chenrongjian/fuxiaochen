@@ -9,9 +9,9 @@ export const TypeIntro = () => {
       className="text-2xl md:text-5xl tracking-widest"
       sequence={[
         500,
-        '一名前端开发工程师 。',
+        '一名后端开发工程师 。',
         1000,
-        'A Web <Developer /> .',
+        'A Server <Developer /> .',
         1000,
       ]}
       speed={10}

@@ -63,7 +63,7 @@ export default function Page() {
           <h2>我是谁</h2>
           <p>
             Hi~ 我是{NICKNAME}
-            ，一名前端开发工程师，2020年大专毕业，喜欢 Coding 和打游戏
+            ，一名后端开发工程师，2016年大专毕业，喜欢 Coding 和篮球
           </p>
         </div>
 
@@ -124,15 +124,15 @@ export default function Page() {
                 <IconSkillNodejsDark className="dark:hidden mx-1 translate-y-0.5" />
                 <IconSkillNodejsLight className="hidden dark:inline-block mx-1 translate-y-0.5" />
               </>
-              Node.js，能简单 CRUD 水平
+              Java 熟练使用
             </li>
             <li>
               <>
                 <IconSkillNextjsDark className="dark:hidden mx-1 translate-y-0.5" />
-                <IconSkillNextjsLight className="hidden dark:inline-block mx-1 translate-y-0.5" />
+                <IconSkillJavaScript className="hidden dark:inline-block mx-1 translate-y-0.5" />
               </>
-              Next.js + <IconSkillPrisma className="mx-1 translate-y-0.5" />
-              Prisma +
+              Springboot + <IconSkillPrisma className="mx-1 translate-y-0.5" />
+              spring +
               <>
                 <IconSkillMysqlDark className="dark:hidden mx-1 translate-y-0.5" />
                 <IconSkillMysqlLight className="hidden dark:inline-block mx-1 translate-y-0.5" />
@@ -141,7 +141,7 @@ export default function Page() {
             </li>
             <li>
               <IconSkillGolang className="mx-1 translate-y-0.5" />
-              Golang，非常感兴趣，目前能简单 CRUD，还在努力学习中
+              Golang，非常感兴趣，目前还在努力学习中
             </li>
           </ul>
         </div>
@@ -154,7 +154,7 @@ export default function Page() {
           <h3>其它</h3>
           <ul>
             <li>
-              Zsh + Oh My Zsh + iTerm2 + Mononoki Nerd Font Mono，舒服的很
+              docker,docker-compose，舒服的很
             </li>
             <li>
               用过 <IconLogoCentOS className="mx-1 translate-y-0.5" />
@@ -215,16 +215,12 @@ export default function Page() {
           <h2>我的设备</h2>
           <ul>
             <li>
-              MacBook Pro 14-inch M3 Max：64G + 2TB，
-              <span className="line-through">
-                赚的几个窝囊费全花电子产品上去了
+              联想.小新：16G + 2TB，
+              <span >
+                赚的钱再买好点的吧
               </span>
               🙃
             </li>
-            <li>微星（msi） GP76：64G + 1TB + RTX3070</li>
-            <li>LG 27英寸 4K</li>
-            <li>键盘：珂芝（KIZI）K75</li>
-            <li>鼠标：罗技（G）PRO 2代</li>
           </ul>
         </div>
 
